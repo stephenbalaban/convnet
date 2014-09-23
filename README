@@ -1,0 +1,10 @@
+Training the K-Sparse Autoencoder [1]:
+http://nbviewer.ipython.org/github/makhzani/convnet/blob/master/K-Sparse%20Autoencoder.ipynb
+
+Training the Winner-Take-All Autoencoder [2]:
+http://nbviewer.ipython.org/github/makhzani/convnet/blob/master/Winner-Take-All%20Autoencoder.ipynb
+
+
+[1] http://arxiv.org/abs/1312.5663
+[2] http://arxiv.org/abs/1409.2752
+
